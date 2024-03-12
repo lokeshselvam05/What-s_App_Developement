@@ -3,4 +3,6 @@ What’s app development code:
 2. chat screen code
 3. last seen code
 4. Attachments (images, audio, video)
-hiding the last seen
+5. hiding the last seen
+6. Adding video call feature
+7. Adding audio call feature
